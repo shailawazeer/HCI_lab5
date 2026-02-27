@@ -1,7 +1,7 @@
 
 # HCI Lab 5 – HCI Principles Demo
 
-## 📌 Overview
+## Overview
 
 This Lab demonstrates fundamental **Human-Computer Interaction (HCI)** principles through a simple, interactive web interface. The application showcases how users interact with systems and how the system communicates its state back to the user.
 
@@ -30,7 +30,7 @@ HCI_LAB5
 
 ---
 
-## 🖥️ How It Works
+## How It Works
 
 1. **User Interaction:** The user clicks the "Process Data" button.
 2. **Feedback:** The button temporarily changes appearance (yellow highlight) and the status message updates with the click count.
@@ -43,7 +43,7 @@ HCI_LAB5
 
 ---
 
-## 🎯 HCI Principles Demonstrated
+## HCI Principles Demonstrated
 
 ### ✅ 1. Visibility of System Status
 
@@ -80,7 +80,7 @@ Visual cues communicate the "soul" of the interface:
 
 ---
 
-## 📷 Expected Behavior
+## Expected Behavior
 
 | Click Count | System Response | Visual Feedback |
 | --- | --- | --- |
@@ -91,7 +91,7 @@ Visual cues communicate the "soul" of the interface:
 
 ---
 
-## 📚 Concept Reference
+## Concept Reference
 
 This demo aligns with interaction design principles commonly discussed in:
 
