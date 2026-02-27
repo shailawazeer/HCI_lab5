@@ -101,7 +101,3 @@ This demo aligns with interaction design principles commonly discussed in:
 **Course:** Human-Computer Interaction
 
 **Project:** HCI Lab 5 Submission
-
----
-
-### Pro-Tip for your GitHub:
