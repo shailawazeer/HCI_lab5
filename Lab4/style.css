@@ -27,7 +27,7 @@ body {
 
 /* CONSTRAINT - Red border when disabled */
 .constrained {
-  border-color: #dc3545 !important; /* Red */
+  color: red !important; /* Red text */
 }
 
 /* SIGNIFIER - Purple background when disabled */
