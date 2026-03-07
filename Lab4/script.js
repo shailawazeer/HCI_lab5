@@ -17,6 +17,5 @@ function performAction() {
     btn.disabled = true;
     btn.classList.add("constrained", "disabled-signifier");
     status.textContent = "⛔ Limit reached (3 clicks max)";
-    status.style.borderColor = "#dc3545"; // Red for constraint
   }
 }
